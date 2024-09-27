@@ -40,6 +40,8 @@ jobs:
           - goos: linux
             goarch: mipsle
           - goos: linux
+            goarch: mipsbe
+          - goos: linux
             goarch: mips64
             gomips: softfloat
           - goos: linux
